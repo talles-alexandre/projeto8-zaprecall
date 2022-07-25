@@ -108,7 +108,3 @@ export default function Deck() {
     </div>
   );
 }
-
-function Teste() {
-  const teste = " ffrdggg";
-}

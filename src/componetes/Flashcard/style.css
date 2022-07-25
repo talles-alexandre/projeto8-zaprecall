@@ -81,3 +81,9 @@
 .Flashcard .finalizado .acerto {
   color: #2fbe34;
 }
+.Flashcard:first-child {
+  margin-top: 160px;
+}
+.Flashcard:last-child {
+  margin-bottom: 160px;
+}
