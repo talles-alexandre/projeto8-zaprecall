@@ -1,0 +1,20 @@
+.Icone {
+  color: #333333;
+}
+
+.Icone svg {
+  width: 23px;
+  height: 23px;
+}
+
+.Icone .erro {
+  color: #ff3030;
+}
+
+.Icone .duvida {
+  color: #ff922e;
+}
+
+.Icone .acerto {
+  color: #2fbe34;
+}
